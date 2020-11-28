@@ -5,7 +5,7 @@
 * Tao moi truong Anaconda:
 > $ conda env create -f environment.yml
 > $ conda activate ML3
-> jupyter notebook ML3
+> $ jupyter notebook BÀI_TẬP_HỌC_MÁY_ipynb.ipynb
 
 *Chạy trên Colab
 Đẩy thư mục đã clone lên Driver
