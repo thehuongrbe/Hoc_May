@@ -1,0 +1,10 @@
+name: ML3
+dependencies:
+  - python=3.6
+  - pip
+  - pandas
+  - scikit-learn
+  - numpy
+  - notebook
+  - pip:
+    - opencv-contrib-python
