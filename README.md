@@ -6,6 +6,7 @@
 > git clone https://github.com/thehuongrbe/Hoc_May.git
 * Tao moi truong Anaconda(Anaconda phải đã được cài):
 > mở Terminal gõ: $ cd 'đường dẫn lưu thư mục clone ở trên'
+
 > $ conda env create -f environment.yml
 
 > $ conda activate ML3
