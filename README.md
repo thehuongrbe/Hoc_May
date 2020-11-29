@@ -10,7 +10,7 @@
 
 > $ conda activate ML3
 
-> $ jupyter notebook Hoc_may.ipynb
+> $ jupyter notebook "Hoc_may.ipynb"
 
 *Chạy trên Colab
 Đẩy thư mục đã clone lên Driver
